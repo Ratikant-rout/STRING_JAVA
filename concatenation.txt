@@ -1,0 +1,17 @@
+import java.util.*;
+
+public class studyopedia{
+
+    public static void main(String args[]){
+    
+    String firstName = "Ratikanta";
+
+    String lastName = "rout";
+
+    String fullName = firstName + " " + lastName;
+
+    System.out.println(fullName);
+
+   }
+
+ }

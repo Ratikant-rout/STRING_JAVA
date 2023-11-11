@@ -1,0 +1,9 @@
+import java.util.*;
+
+public class studyopedia{
+
+    public static void main(String args[]){
+       String fullName= "Ratikanta Routs";
+       System.out.println(fullName.length());
+     }
+  }
